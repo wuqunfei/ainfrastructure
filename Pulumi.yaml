@@ -1,0 +1,6 @@
+name: ainfrastructure
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A Azure AI factory
